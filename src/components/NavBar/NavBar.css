@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #DE0A5A;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
